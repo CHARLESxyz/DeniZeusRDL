@@ -11,4 +11,4 @@ Features:
 - Glow 
 - Bhop 
 - Hiding console for leagues 
-- Ultimate low cpu usage (nearly 0)
+- Low cpu usage
